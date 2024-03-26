@@ -1,0 +1,365 @@
+#body{
+    flex: 1 1 0%;
+     background-color: rgb(245, 235, 220);
+}
+
+
+#navbar{
+    padding-left: 5px;
+    padding-right: 5px;
+   position: sticky;
+   top: 0;
+}
+#navbar1{
+   
+    height: 5%;
+    width: 40%;
+}
+#navbar2{
+    
+    height: 5%;
+    width: 5%;
+    
+}
+#navbar3{
+    
+    height: 5%;
+    width: 30%;
+    
+}
+#navbar4{
+   
+    height: 5%;
+    width: 5%;
+    
+}
+#button{
+    height: 44px;
+    width: 50px;
+   border-color: rgba(255, 0, 0, 0) ;
+   background-color: rgba(255, 0, 0, 0);
+   
+     
+
+}
+#navbar2 svg {
+    height:42px;
+    width:32px ;
+   
+   
+   
+}
+#btn1{
+    height: 40px;
+    width: 140px;
+   border-color: rgba(255, 0, 0, 0) ;
+   background-color: red;
+   color: white;
+   border-radius: 20px;
+   float: right;
+   font-size: 12px;
+   
+  
+   
+}
+#btn2{
+    height: 40px;
+    width: 110px;
+   background-color: brown;
+   border-radius: 20px;
+ float: right;
+  
+   
+  
+}
+
+#box2{
+   height: 50px;
+   width: 220px;
+   background-color: red;
+   border-radius: 20px;
+}
+#box3{
+    height: 50px;
+    width: 220px;
+    background-color:white;
+    border: 2px solid red;
+    border-radius: 20px;
+ }
+ #box4 img{
+    height:100%;
+    width: 100%;
+ }
+ #box5{
+   
+    border-radius: 10px;
+   
+ }
+ #box5 img{
+    height: 60%;
+    width: 100%;
+ }
+ #box6{
+    height: 32px;
+    width: 152px;
+    border: 2px solid red;
+    border-radius: 20px;
+    color: red;
+    float: right;
+ }
+ #box7{
+   
+    border-radius: 10px;
+   
+ }
+ #box7 img{
+    height: 60%;
+    width: 100%;
+ }
+ #box8{
+    height: 32px;
+    width: 152px;
+    border: 2px solid red;
+    border-radius: 20px;
+    color: red;
+    float: right;
+ }
+ #box9{
+   
+    border-radius: 10px;
+   
+ }
+ #box9 img{
+    height: 60%;
+    width: 100%;
+ }
+ #box10{
+    height: 8%;
+    width: 57%;
+    border: 2px solid red;
+    border-radius: 20px;
+    color: red;
+    float: right;
+ }
+ #box11{
+   
+    border-radius: 10px;
+   
+ }
+ #box11 img{
+    height: 60%;
+    width: 100%;
+ }
+ #box12{
+    height: 8%;
+    width: 30%;
+    border: 2px solid red;
+    border-radius: 20px;
+    color: red;
+    float: right;
+ }
+ #footer1{
+   width: 35%;
+  
+   
+  
+ }
+ #footer1 img{
+   height: 100%;
+   width: 100%;
+ }
+ #footer2{
+   width: 60%;
+   height: 100%;
+  
+ }
+ #footer3{
+   padding-left: 5%;
+   padding-right: 5%;
+  
+   background-color:rgba(128, 128, 128, 0.254);
+  
+ }
+ #footer4{
+   height: 30%;
+   width: 30%;
+ }
+ #footer5{
+   height: 30%;
+   width: 30%;
+ }
+ #footer7 img{
+   height: 90%;
+   width: 100%;
+ }
+ .container{
+   display: flex;
+ }
+ #footer8{
+   height: 100%;
+   width: 95%;
+ }
+ #footer9{
+   height: 100%;
+   width: 95%;
+ }
+ .container1{
+   display:flex;
+ }
+ #footer13{
+   background-color:rgba(128, 128, 128, 0.254);
+   
+ }
+ #bottombar1{
+   width:19%;
+  
+   
+ }
+ #bottombar1 i{
+   font-size:29px;
+   color:red;
+ }
+ #bottombar2{
+   width:19%;
+  
+ }
+ #bottombar2 i{
+   font-size:29px;
+   color:red;
+ }
+ #bottombar3{
+   width:19%;
+   
+ }
+ #bottombar3 i{
+   font-size:29px;
+   color:red;
+ }
+ #bottombar4{
+   width:19%;
+   
+ }
+ #bottombar4 i{
+   font-size:29px;
+   color:red;
+ }
+ #bottombar5{
+   width:17%;
+  
+ }
+ #bottombar5 i{
+   font-size:29px;
+   color:red;
+ }
+ #bottombar6{
+   padding-left:10%;
+   padding-right:10%;
+   position: sticky;
+   bottom: 0;
+   
+   flex: 1 1 0%;
+   background-color: rgb(245, 235, 220);
+  
+ }
+@media screen and (max-width:414px) {
+   #row{
+    padding-left: 3px;
+    padding-right: 3px;
+   }
+   #navbar1{
+   
+    height: 5%;
+    width: 40%;
+}
+#navbar2{
+    
+    height: 5%;
+    width: 30%;
+    
+}
+
+#navbar3{
+    
+    height: 5%;
+    width: 30%;
+    
+}
+#box5 img{
+    height: 40%;
+    width: 100%;
+ }
+ #box7 img{
+    height: 40%;
+    width: 100%;
+ }
+ #box9 img{
+    height: 40%;
+    width: 100%;
+ }
+ #box11 img{
+    height: 40%;
+    width: 100%;
+ }
+ #box12{
+    height: 8%;
+    width: 30%;
+    border: 2px solid red;
+    border-radius: 20px;
+    color: red;
+    float: right;
+ }
+}
+@media screen and (max-width:412px) {
+    #box12{
+        height: 8%;
+        width: 30%;
+        border: 2px solid red;
+        border-radius: 20px;
+        color: red;
+        float: right;
+     }
+}
+@media screen and (width:428px) {
+    #btn1{
+        height: 40px;
+        width: 120px;
+       border-color: rgba(255, 0, 0, 0) ;
+       background-color: red;
+       color: white;
+       border-radius: 20px;
+       float: right;
+       
+      
+       
+    }
+    #navbar3{
+    
+        height: 5%;
+        width: 35%;
+        
+    }
+    #box5{
+   
+        border-radius: 10px;
+        margin-bottom: 25px;
+       
+     }
+     #box7 img{
+        height: 50%;
+        width: 100%;
+     }
+     #box9 img{
+       height: 40%;
+       width: 100%;
+     }
+     #box12{
+        height: 8%;
+        width: 30%;
+        border: 2px solid red;
+        border-radius: 20px;
+        color: red;
+        float: right;
+     }
+   
+}
+
